@@ -1,0 +1,34 @@
+project:
+  type: book
+
+book:
+  title: "Социално - икономическа и епидемимиологична характертиска на редките тумори."
+  author: "Костадин Костадинов"
+  date: "12.08.2022 г."
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+bibliography: reference.bib
+csl: bmc-medicine.csl
+language: custom.yml
+
+format:
+  pdf:
+    documentclass: scrbook
+    classoption: ["onepage", "openany"]
+    mainfont: "Times New Roman"
+    sansfont: "Times New Roman"
+    monofont: "Times New Roman"
+    template-partials:
+      - "before-body.tex"
+      - "_titlepage.tex" 
+    include-in-header: 
+      - "in-header.tex"
+    toc: true
+    lof: true
+    lot: true
+
+
+        
