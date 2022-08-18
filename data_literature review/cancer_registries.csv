@@ -1,0 +1,114 @@
+Country;Cancer Registry;Available year of incidence;;Incidence;;Survival;;Prevalence
+;;from;to;Crude and age-adjusted incidence 2000-2007 (83 CRs);Age-adjusted incidence over time 1995-2007 (42 CRs);Relative survival Cohort approach 2000-2007 (94 CRs);Relative survival over time 1999-2007 (45 CRs);15-yrs prevalence at 1/1/2008 (26 CRs)
+Central Europe
+Austria;Austria National;1983;2007;1;1;1;1;1
+Belgium;Flanders;1999;2007;1;0;1;0;0
+France;Bas Rhin;1989;2004;1;0;1;0;0
+France;Basse Normandie(a) HM;2004;2005;0;0;1;0;0
+France;Burgungy(b) (dig.);1982;2007;0;0;1;1;0
+France;Calvados(b) (dig.);1989;2005;1;0;1;0;0
+France;Calvados(c);1989;2005;1;0;1;0;0
+France;Cote D'Or(d) (gyn.);1989;2004;0;0;1;0;0
+France;Cote D'Or(a) (HM);1980;2007;0;0;1;1;0
+France;Doubs;1989;2004;1;0;1;0;0
+France;Finistere(b) (dig.);2000;2004;0;0;1;0;0
+France;Gironde(a) (HM);2002;2004;0;0;1;0;0
+France;Gironde(e) (SNC);2000;2004;0;0;1;0;0
+France;Herault;1995;2004;1;0;1;0;0
+France;Isere;1989;2004;1;0;1;0;0
+France;Loire Atlantique;1991;2006;1;1;1;1;0
+France;Manche(f);1994;2004;0;0;1;0;0
+France;Marne &amp; Ardennes(g) (thyroid);1989;2006;0;0;1;1;0
+France;Somme;1989;2004;1;0;1;0;0
+France;Tarn;1989;2004;1;0;1;0;0
+Germany;Brandeburg;1998;2007;1;0;1;0;0
+Germany;Bremen;1998;2007;1;0;1;0;0
+Germany;Hamburg;1995;2007;1;1;1;1;0
+Germany;Mecklenburg-Vorpommern;1998;2007;1;0;1;0;0
+Germany;Munich;2002;2007;1;0;1;0;0
+Germany;Northrhine Westfalia;1998;2008;1;0;1;0;0
+Germany;Saarland;1978;2007;1;1;1;1;1
+Germany;Saxony;1998;2007;1;0;1;0;0
+Switzerland;Basel;1981;2007;1;1;1;1;1
+Switzerland;Geneva;1978;2007;1;1;1;1;1
+Switzerland;Grisons;1989;2007;1;1;1;1;1
+Switzerland;St. Gallen;1988;2007;1;1;1;1;1
+Switzerland;Ticino;2000;2007;1;0;1;0;0
+Switzerland;Valais;1989;2007;1;1;1;1;1
+The Netherlands;The Netherlands National;1989;2008;1;1;1;1;1
+Eastern Europe
+Bulgaria;Bulgaria National;1993;2008;1;1;1;1;1
+Czech Republic;Czech Rep. National;1994;2007;1;1;1;1;0
+Estonia;Estonia National;1978;2007;1;1;1;1;1
+Latvia;Latvia National;2000;2007;1;0;1;0;0
+Lithuania;Lithuania National;1993;2006;1;1;1;1;0
+Poland;Cracow;1978;2007;1;1;1;1;1
+Poland;Kielce;1990;2007;1;1;1;1;1
+Poland;Silesia;1990;2008;1;1;1;1;1
+Slovakia;Slovakia National;1978;2006;1;1;1;1;0
+Northern Europe
+Finland;Finland National;1978;2007;1;1;1;1;1
+Iceland;Iceland National;1978;2007;1;1;1;1;1
+Norway;Norway National;1978;2008;1;1;1;1;1
+Southern Europe
+Croatia;Croatia National;2000;2007;1;0;1;0;0
+Italy;Alto Adige;1995;2005;1;0;1;0;0
+Italy;Biella;1995;2006;1;1;1;1;0
+Italy;Catanzaro;2003;2005;1;0;1;0;0
+Italy;Ferrara;1991;2007;1;1;1;1;1
+Italy;Firenze-Prato;1985;2005;1;0;1;0;0
+Italy;Friuli Venezia Giulia;1995;2007;1;1;1;1;0
+Italy;Genova;1986;2004;1;0;1;0;0
+Italy;Latina;1996;2006;1;1;1;1;0
+Italy;Mantova;1999;2004;1;0;1;0;0
+Italy;Milano;1999;2006;1;0;1;0;0
+Italy;Modena;1988;2008;1;1;1;1;1
+Italy;Napoli;1996;2007;1;1;1;1;0
+Italy;Nuoro;2003;2005;1;0;1;0;0
+Italy;Palermo;2003;2006;1;0;1;0;0
+Italy;Parma;1978;2008;1;1;1;1;1
+Italy;Ragusa;1981;2006;1;1;1;1;0
+Italy;Reggio Emilia;1996;2007;1;1;1;1;0
+Italy;Romagna;1986;2007;1;1;1;1;1
+Italy;Salerno;1996;2005;1;0;1;0;0
+Italy;Sassari;1992;2006;1;1;1;1;0
+Italy;Siracusa;1999;2006;1;0;1;0;0
+Italy;Sondrio;1998;2007;1;0;1;0;0
+Italy;Trapani;2002;2004;1;0;1;0;0
+Italy;Trentino;1995;2006;1;1;1;1;0
+Italy;Umbria;1994;2008;1;1;1;1;0
+Italy;Varese;1978;2004;1;0;1;0;0
+Italy;Veneto;1987;2005;1;0;1;0;0
+Malta;Malta National;1993;2007;1;1;1;1;1
+Portugal;Açores;2000;2007;1;0;1;0;0
+Portugal;Northern Portugal;2000;2006;1;0;1;0;0
+Portugal;Southern Portugal;1998;2005;1;0;1;0;0
+Slovenia;Slovenia National;1983;2007;1;1;1;1;1
+Spain;Albacete(j) (CLBP);1991;2004;0;0;1;0;0
+Spain;Basque Country;1986;2004;1;0;1;0;0
+Spain;Castellón-Valencia(k) (breast);2000;2005;0;0;1;0;0
+Spain;Cuenca;2000;2004;1;0;1;0;0
+Spain;Girona;1994;2007;1;1;1;1;0
+Spain;Granada;1995;2005;1;0;1;0;0
+Spain;Murcia;1990;2003;1;0;1;0;0
+Spain;Navarra;1978;2005;1;0;1;0;0
+Spain;Tarragona;1985;2005;1;0;1;0;0
+Ireland and UK
+Ireland;Ireland National;1994;2007;1;1;1;1;0
+UK-England;England National;1990;2007;1;1;1;1;1
+UK-Northern Ireland;Northern Ireland National;1993;2007;1;1;1;1;1
+UK-Scotland;Scotland National;1978;2007;1;1;1;1;1
+UK-Wales;Wales National;1991;2008;1;1;1;1;1
+(a) Haematological malignancies (HM) only.
+(b) Digestive system (dig.) cancers only.
+(c) All but digestive system cancers and since 2004 haematological malignancies.
+"(d) Female breast and ovary (gyn.,gynaecological) cancers only."
+(e) Central Nervous System (CNS) cancers only.
+(f) All but haematological malignancies since 2004.
+(g) Thyroid cancers only.
+(h) Mesothelioma only.
+(i) Female breast cancers only (1999–2007).
+"(j) Colon and rectum, lung, breast, prostate (CLBP) cancers only."
+(k) Female breast cancers only.
+
+Data from www.rarecarenet.eu
