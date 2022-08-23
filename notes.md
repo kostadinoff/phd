@@ -18,7 +18,6 @@ bibliography: [phd\reference.bib]
 
 @Gatta2006
 
-
 - These problems can be addressed by use of population-based cancer-registries data to avoid selection bias and by compilation of large international databases on rare cancer
 - We defined rare cancers as those with an annual crude incidence rate of less than 2 per 100 000 for both sexes combined.
 - We have shown that survival for rare cancers decreased with increasing age at diagnosis, as for most common cancers.
