@@ -40,9 +40,9 @@ bibliography: [phd\reference.bib]
 
 @gatta2010burden
 
--The list of rare cancers was based on the International Classification of Diseases for Oncology (ICD-O 3rd edition) and it was hierarchically structured in 2 layers based on various combinations of ICD-O morphology and topography codes: layer (1) families of tumors (relevant for the health care organisation) and layer (2) tumors clinically meaningful (relevant for clinical decision making and research).
+- The list of rare cancers was based on the International Classification of Diseases for Oncology (ICD-O 3rd edition) and it was hierarchically structured in 2 layers based on various combinations of ICD-O morphology and topography codes: layer (1) families of tumors (relevant for the health care organisation) and layer (2) tumors clinically meaningful (relevant for clinical decision making and research).
 
--However, prevalence has shortcomings as a measure for rarity for tumors, although we acknowledge its appropriateness for non-neoplastic diseases. Many of these are chronic conditions, so prevalence, which reflects the total number of cases at any given time in a population truly renders the burden that a disease poses at a population level. On the contrary, tumors are subacute diseases in which everything tends to happen once. In the natural history of a tumor, there will be one potentially eradicating surgery, one local radiation therapy, one first chemotherapy and each of these will take place in a definite time intervals. Thus, the total amount of resources
+- However, prevalence has shortcomings as a measure for rarity for tumors, although we acknowledge its appropriateness for non-neoplastic diseases. Many of these are chronic conditions, so prevalence, which reflects the total number of cases at any given time in a population truly renders the burden that a disease poses at a population level. On the contrary, tumors are subacute diseases in which everything tends to happen once. In the natural history of a tumor, there will be one potentially eradicating surgery, one local radiation therapy, one first chemotherapy and each of these will take place in a definite time intervals. Thus, the total amount of resources
 that tumors mobilize are proportional to the yearly rate of new diagnoses (incidence) and not to the total amount of persons with previous cancer diagnosis (prevalence)
 
 - the incidence of tumors tends to change in a more predictable manner than prevalence and it is more closely connected to the cause of the diseases; the incidence is a direct measure of the burden imposed by the need for the first line cancer treatment; the number of patients amenable to enter a clinical study is reflected by cancer incidence.
@@ -51,7 +51,7 @@ that tumors mobilize are proportional to the yearly rate of new diagnoses (incid
 
 - The first layer denotes the main families of tumors identified according to a consensus-based clinical perspective. This partitioning should be mainly useful for patient referral purposes i.e. it is relevant under the health care organization perspective.
 
--The second layer denotes tumors relevant from the clinical, mainly the therapeutic, decision-making perspective (ICD-O coded entities have been grouped on the basis of their similar clinical management).
+- The second layer denotes tumors relevant from the clinical, mainly the therapeutic, decision-making perspective (ICD-O coded entities have been grouped on the basis of their similar clinical management).
 
 - The first reason is to follow existing tumor classifications. Any list of rare tumors will always be a subset of a standard list of tumors. International agencies preside over such classifications, constantly updating them, and genetic and molecular profile is more and more relevant to tumor partitioning in such classifications. This list of rare tumors is based on the ICD-O (3rd edition) classification  because this is the worldwide recognized classification of tumors. The second reason is data availability. Cancer registry data, the only data available to calculate population-based incidence and prevalence indicators, refer to cases classified only according to ICD-O. Other, even attractive, classification criteria such as biomarkers or gene expression cannot be used for any quantitative description of cancer burden.
   
@@ -71,9 +71,9 @@ whole in a large and heterogeneous population.
 - RARECARE gathered data on cancer patients diagnosed from 1978 to 2002 and archived in population-based CRs, all of which had vital status information available up to at least
 31st December 2003. For 11 countries, the CRs covered the entire national population (Austria, Iceland, Ireland, Malta, Norway, Slovakia, Slovenia, Sweden, Northern Ireland, Scotland and Wales); the other countries do not have national cancer registration and were represented by regional CRs covering variable proportions of their national populations. The mean population covered, over the period 1995–1999, was about 162,000,000, corresponding to 39% of the population of countries participating in RARECARE and 32% of the European Union (EU27) population. Systematic data checks were performed to detect errors, inconsistencies or unusual combinations of site, morphology, sex and age at diagnosis.7,8 Only a negligible proportion (0.14%) of cases had major errors and had to be excluded.7 RARECARE collected data from 89 CRs; however the present paper considered data from 76 CRs, excluding CRs which did not classify cancers according to the third edition of the International Classification of Diseases for Oncology (ICD-O3),9 and also those which collected data on childhood cancers only.
 
--The bottom tier corresponds to the WHO names of individual cancer entities (http://www.iarc.fr/en/publications/ pdfs-online/pat-gen/) and their corresponding ICD-O-39 codes. Bottom tier entities were grouped into categories (middle tier) considered to require similar clinical management and research. Middle tier entities were grouped into general categories (top tier) considered to involve the same clinical expertise and patient referral structure.
+- The bottom tier corresponds to the WHO names of individual cancer entities (http://www.iarc.fr/en/publications/ pdfs-online/pat-gen/) and their corresponding ICD-O-39 codes. Bottom tier entities were grouped into categories (middle tier) considered to require similar clinical management and research. Middle tier entities were grouped into general categories (top tier) considered to involve the same clinical expertise and patient referral structure.
 
--RARECARE defined rare cancers as those with an incidence of <6/100,000/year, corresponding to <30,000 new cases/year in Europe. A total of 186 cancers were rare according to this definition
+- RARECARE defined rare cancers as those with an incidence of <6/100,000/year, corresponding to <30,000 new cases/year in Europe. A total of 186 cancers were rare according to this definition
 
 - About 74% of rare cancers had an annual incidence rate of <0.5/100,000. However, this plethora of cancers accounted for only 70,000 (3%) of the 2.5 million cancers diagnosed each year. Another 17 cancer types, with incidence 0.5–1/100,000, accounted for 49,000 new diagnoses each year in EU27, while the 31 cancer types with incidence >1–6/100,000, accounted for 422,000 new cases/year. Seventeen common cancers accounted for the remaining cases.
 
@@ -81,20 +81,18 @@ whole in a large and heterogeneous population.
   
 - Six cancers are common according to the incidence criterion  and rare according to the prevalence criterion. These ar stomach adenocarcinoma, pancreatic adenocarcinoma, lung adenocarcinoma, lung squamous cell carcinoma, poorly differentiated endocrine carcinomas of lung and the group other non-Hodgkin mature B cell lymphomas. The explanation is that these are poor prognosis cancers which hence have low prevalence, even though incidence is relatively high.
 
--Rare cancers had, on average, worse relative survival tha common cancers. For patients with rare cancers diagnose in 1995–1999, 1, 3 and 5-year relative survival was 68%, 52%
+- Rare cancers had, on average, worse relative survival tha common cancers. For patients with rare cancers diagnose in 1995–1999, 1, 3 and 5-year relative survival was 68%, 52%
 and 47%, respectively; the corresponding figures for patients with common cancers were 80%, 69% and 65%. survival differences between rare and commo cancers were small 1 year after diagnosis but survival for rare
 cancers declined more markedly thereafter, consistent wit the idea that treatments for rare cancers are less effectiv than those for common cancers, and suggesting that later stage at diagnosis is not a factor in the poorer survival for rare
 cancers.
 
--For patients 0–39 years – most of whose cancers were rare – survival did not differ between common and rare cancers. The survival disadvantage of having a rare cancer increased from –17% at 40–59 years to –30% at 75–99 years. In the oldest age group, survival for rare cancers was almost half that of common cancers.
+- For patients 0–39 years – most of whose cancers were rare – survival did not differ between common and rare cancers. The survival disadvantage of having a rare cancer increased from –17% at 40–59 years to –30% at 75–99 years. In the oldest age group, survival for rare cancers was almost half that of common cancers.
 
--From Fig. 4 it is evident that 5-year survival was similarly high for both rare and common cancers in children and young adults (up to 39 years) but that 5-year survival for rare cancers fell increasingly behind that of common cancers as age of diagnosis increased.
+- From Fig. 4 it is evident that 5-year survival was similarly high for both rare and common cancers in children and young adults (up to 39 years) but that 5-year survival for rare cancers fell increasingly behind that of common cancers as age of diagnosis increased.
 
 @Hiripi2012
 
-. In Germany, survival for rare cancers ranged from 11.9% (mesothelioma) to 74.7% (male breast
-cancer). USA survival estimates were higher than those in Germany for cancer sites, such as the heart, eye, vulva and male breast. Mesothelioma patients in Germany had better survival
-than in the United States.
+- In Germany, survival for rare cancers ranged from 11.9% (mesothelioma) to 74.7% (male breast cancer). USA survival estimates were higher than those in Germany for cancer sites, such as the heart, eye, vulva and male breast. Mesothelioma patients in Germany had better survival than in the United States.
 
 @Munoz2012
 
@@ -109,7 +107,7 @@ than in the United States.
 
 - The European Commission on Public Health defines rare diseases as “life-threatening or chronically debilitating diseases that are of such low prevalence that special combined efforts are needed to address them.”4 ESMO defines rare tumours as those with an incidence of fewer than six per 100,000 persons per year
 
--The United States Orphan Drug Act defines as orphan diseases as conditions “for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug
+- The United States Orphan Drug Act defines as orphan diseases as conditions “for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug
 
 - prevalence is influenced by survival, which may lead to inappropriate conclusions in patients with an aggressive rare cancer who have a decreased lifespan.
 
@@ -122,9 +120,9 @@ than in the United States.
 - The definition of targeted therapy is elusive as well. A superficial definition implies that it is a therapy that is used to target a specific molecular aberration or genetic
 anomaly. 
 
--The target or biomarker was discovered first in some cases, such as HER2 in breast cancer, whereas in others the drug was discovered before the target was defined, such as all-trans retinoic acid (ATRA) used for the treatment of acute promyelocytic leukaemia (APL). @Sledge2005
+- The target or biomarker was discovered first in some cases, such as HER2 in breast cancer, whereas in others the drug was discovered before the target was defined, such as all-trans retinoic acid (ATRA) used for the treatment of acute promyelocytic leukaemia (APL). @Sledge2005
 
--Finally, a given ‘targeted’ therapeutic agent might impact multiple targets (for example, sorafenib, which is a multikinase inhibitor) instead of a single one. Hence, targeted therapy cannot always be defined as having single-target specificity.
+- Finally, a given ‘targeted’ therapeutic agent might impact multiple targets (for example, sorafenib, which is a multikinase inhibitor) instead of a single one. Hence, targeted therapy cannot always be defined as having single-target specificity.
 
 - Orphan malignancies demonstrate some of the highest response rates, primarily owing to the identification of a main driver of malignant transformation. In addition, it has been hypothesized that the limited number of underlying pathways leading to these orphan diseases makes them both rare and treatable
 
@@ -133,14 +131,14 @@ for these diseases is many magnitudes greater than for orphan diseases. This dic
 
 - More recently, it has become increasingly evident that an optimal approach would be to stratify common tumours into molecular subsets, each of which constitutes an orphan disease. An example is ALK-rearranged non-small-cell lung cancer (NSCLC; seen only in 4% of the lung cancer population), which shows near-universal regression with ALK inhibitor treatment. @Choi2010 
 
--The application of such molecular pharmacogenetic approaches has tremendous potential for improving the efficacy of novel targeted agents, while diminishing cost and toxicity.
+- The application of such molecular pharmacogenetic approaches has tremendous potential for improving the efficacy of novel targeted agents, while diminishing cost and toxicity.
 
--Some of the most remarkable oncological interventions, resulting in frequent complete or near-complete responses with prolongation of overall survival, have occurred in orphan cancers.
+- Some of the most remarkable oncological interventions, resulting in frequent complete or near-complete responses with prolongation of overall survival, have occurred in orphan cancers.
 
 - Indeed, considering their rarity, there is a disproportionately high number
 of drugs approved for orphan malignancies compared with drugs for the most-common tumours
 
--Historically, lung cancer treatment is a good example of the inherent problems associated with an allinclusive therapeutic approach. Treatment with the EGFR inhibitor gefitinib, for example, produced responses in 8.9% of all enrolled patients with advanced NSCLC. However, no survival advantage was seen after analysing patients who were not selected by EGFR status, even though some patients had remarkable responses.88 Subsequently, it was demonstrated that gefitinib is active in patients with NSCLC with a mutated EGFR gene
+- Historically, lung cancer treatment is a good example of the inherent problems associated with an allinclusive therapeutic approach. Treatment with the EGFR inhibitor gefitinib, for example, produced responses in 8.9% of all enrolled patients with advanced NSCLC. However, no survival advantage was seen after analysing patients who were not selected by EGFR status, even though some patients had remarkable responses.88 Subsequently, it was demonstrated that gefitinib is active in patients with NSCLC with a mutated EGFR gene
 
 -  Second, it seems increasingly unlikely that common cancers, which
 seem to arise as a result of multiple diverse aberrations, will have high response rates to any one therapy
@@ -151,14 +149,12 @@ seem to arise as a result of multiple diverse aberrations, will have high respon
 
 -  The group of pediatric VRTs is extremely heterogeneous involving diff erent organ sites and many histological tumor types. Some are characteristic of the pediatric age, while others occur frequently in adults but rarely in children
 
--In adult oncology, VRTs are a heterogeneous group of entities that is diffi cult to defi ne. According to the European RARECARE project – an incidence cut-off of less than 6 cases/100 000 population/year should be used to defi ne VRTs. However, this defi nition would include all childhood cancers.
+- In adult oncology, VRTs are a heterogeneous group of entities that is diffi cult to defi ne. According to the European RARECARE project – an incidence cut-off of less than 6 cases/100 000 population/year should be used to defi ne VRTs. However, this defi nition would include all childhood cancers.
 
 -  Italian TREP project (Tumori Rari in Età Pediatrica [Rare Tumors in Pediatric Age]) introduced a new defi nition of VRTs, using a lower cut-off , i. e., an annual incidence < 2/millions. Moreover, a specifi c tumor entity was only included if it was not enrolled in clinical trials, defi ning it as an orphan disease
 
-- On the other hand, a purely qualitative defi nition of childhood VRTs based on histopathologic classifi cation may pose other problems. In the COG initiative, VRTs were generally classifi ed as other malignant epithelial neoplasms and melanomas according
-to the International Classifi cation of Childhood Cancer subgroup XI of the SEER database. As a consequence, several VRTs such as pleuropulmonary blastoma, pancreatoblastoma or sex
-cord stromal tumors might be excluded. Therefore, EXPeRT proposes that the group of VRTs should not be defi ned based on epidemiology or pathology alone. Instead, a VRT is mainly characterized by its status as an orphan disease, thus pointing to the
-need of the children to have appropriate care.
+- On the other hand, a purely qualitative defi nition of childhood VRTs based on histopathologic classifi cation may pose other problems. In the COG initiative, VRTs were generally classifi ed as other malignant epithelial neoplasms and melanomas according to the International Classifi cation of Childhood Cancer subgroup XI of the SEER database. As a consequence, several VRTs such as pleuropulmonary blastoma, pancreatoblastoma or sex
+cord stromal tumors might be excluded. Therefore, EXPeRT proposes that the group of VRTs should not be defi ned based on epidemiology or pathology alone. Instead, a VRT is mainly characterized by its status as an orphan disease, thus pointing to the need of the children to have appropriate care.
 
 - any solid malignancy or borderline tumor characterized by an annual incidence < 2/million and/or not already considered in clinical trials
 
@@ -187,6 +183,48 @@ need of the children to have appropriate care.
 - However, little is known about the aetiology of most rare cancers, and these cancers are difficult to study on a national basis due to the small numbers seen. We therefore conducted a case–control study in nine European countries of cancers of the small intestine, male gall bladder and bile ducts, thymus, bone, male breast, eye melanoma, and mycosis fungoides.
   
 - ![1661352863229](image/notes/1661352863229.png)
+
+@ESMORare82:online
+
+- раздели с препоръки 
+
+- Sub-optimal treatment outcomes are common for rare cancers due to a lack of medical expertise in the management of rare cancers, poor referral rates from general practitioners and pathologic misdiagnosis. Outcomes for a diverse range
+of rare cancers could be improved through the establishment of reference networks or centres of expertise. However, few reference networks or centres of expertise exist across the EU and funding is not available to cover the increased
+costs associated with the organisation of these networks
+
+- Overall health and social costs can be far higher for patients with rare cancers because effective treatments are not always reimbursed, referrals for second opinions within the public health system are not commonplace and many
+patients must travel long distances to access appropriate care;
+
+- Since the EU Orphan Drug Regulation4 entered into force, 20 of the 46 medical products that have been designated as orphan drugs have received marketing
+authorisation for a rare cancer indication5. However, despite the adoption of the EU Orphan Drugs Regulation, there are still a significant number of hurdles that discourage the development of new medicines to treat rare cancers
+
+- Call upon regulatory bodies to properly value the use of non-frequentist (Bayesian10) statistical approaches and/or study designs where well-powered
+randomised clinical trials are not feasible due to the low incidence of the cancer entity.
+
+- Call upon Health Technology Assessment (HTA) agencies to include patients and their representatives as equal stakeholders in the assessment of treatments for rare cancers in order to ensure that HTA procedures are transparent, timely, and include in their cost-effectiveness model the wider social costs and benefits.
+
+- Call for HTA and pricing and reimbursement bodies to include specialist input from expert oncologists in rare cancers when making decisions about medicines for use in the treatment of rare cancers.
+
+@Marty2008
+
+- Rare cancers are better defined by their incidence (< 3/100 000 per year) than by their prevalence
+
+@Pierotti2009 
+
+- A targeted therapy is a biologic treatment that exploits the activated oncogene as the Achille’s heel of the disease and uses this molecular entity as a target for treatment.
+
+- Interestingly, most of the tumors where molecular targets have been identified and appropriate drugs have been designed belonged to the category of the so-called ‘‘rare tumors’’. They are called ‘‘rare’’ due to their relative low frequency (with a prevalence lower than 50/100,000/year), but, in many instances, studies on them have provided a significant ‘‘proof of the concept’’ in different areas of cancer research and care so that their results have subsequently
+been extended to the more frequent neoplasms.
+
+@Onega2022 
+
+- Longer travel times have negative impacts for patients requiring highly specialized care, such as for rare cancers, and for those in rural areas.
+
+- Travel times for cancer services ranged from approximately 29 minutes (25th percentile) to 68 minutes (75th percentile). Travel times were similar for rare and common cancers overall (median: 45 vs 43 minutes) but differed by service type; 13.4% of surgeries were >2 hours away for rare cancers, compared to 8.3% for common cancers. Increasing rurality disproportionately increased travel time to surgical care for rare compared to common cancers.
+
+@Olischlaeger2022
+
+- Patients with a rare cancer are confronted with uncertainties regarding work, due to an overall lack of knowledge and experience with these types of cancer.
 
 
 # Въведение
