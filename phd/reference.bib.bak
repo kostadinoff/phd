@@ -798,7 +798,7 @@
   journal      = {Редки болести и лекарства сираци},
   title        = {Към нов подход при оценка на лекарствата сираци в Германия},
   year         = {2022},
-  month        = {Feb.},
+  month        = {Feb},
   number       = {4},
   pages        = {3-4},
   volume       = {12},
@@ -1902,15 +1902,6 @@
   publisher = {Elsevier {BV}},
 }
 
-@Article{Fabbroni20219,
-  author  = {Fabbroni, Chiara and Cingarlini, Sara and Sanfilippo, Roberta},
-  journal = {Cancer and Chemotherapy Reviews},
-  title   = {The use of rare cancer network during the COVID-19 pandemic},
-  number  = {1},
-  pages   = {9 – 11},
-  volume  = {16},
-}
-
 @Article{Shah2021,
   author    = {Harsh Shah and Amre Ghazzal and Dweep Barbhaya and William Weigold},
   journal   = {Journal of the American College of Cardiology},
@@ -2773,6 +2764,16 @@ EXPORT DATE: 23 August 2022
   volume            = {17},
   publication_stage = {Final},
   url               = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84929159214&partnerID=40&md5=a53f2886ae5939d5c587f17fd90dae18},
+}
+
+@Article{macbeth1965malignant,
+  author    = {Macbeth, Ronald},
+  journal   = {The Journal of Laryngology \& Otology},
+  title     = {Malignant disease of the paranasal sinuses},
+  number    = {7},
+  pages     = {592--612},
+  volume    = {79},
+  publisher = {Cambridge University Press},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

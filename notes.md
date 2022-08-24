@@ -174,6 +174,21 @@ need of the children to have appropriate care.
 
 - In 2002, COG created the rare tumor committee, which included the infrequent tumor subcommittee
 
+@Lynge2005 
+
+- Some rare cancers are caused by mutations in a single gene, like retinoblastoma of the eye
+
+- Other rare cancers are closely associated with a specific exposure, like adenocarcinoma of the vagina in daughters of mothers using diethylstilbestrol during pregnancy
+
+- rare cancers are known to be caused by occupational exposures, such as pleural mesothelioma in asbestos workers, bone sarcoma in radium dial painters , and liver angiosarcoma in vinyl chloride workers
+
+- Historically, the term ‘‘signal cancer’’ has been used for rare cancers clustering in specific occupations, like nasal adenocarcinoma in furniture-makers in Buckinghamshire, in the United Kingdom (UK), in the early 1960s [@macbeth1965malignant].
+
+- However, little is known about the aetiology of most rare cancers, and these cancers are difficult to study on a national basis due to the small numbers seen. We therefore conducted a case–control study in nine European countries of cancers of the small intestine, male gall bladder and bile ducts, thymus, bone, male breast, eye melanoma, and mycosis fungoides.
+  
+- ![1661352863229](image/notes/1661352863229.png)
+
+
 # Въведение
 
 Понятието "редки карциноми" е използвано през 1992 , като в своя студия Bruce A. et al. @Chabner1992  коментират различията в клиничния отговор към химиотерапевтични агенти. Авторите отбелязват, че при определени видове тумори с честота на случаите под 1000 на година, провеждането на изследвания от самостоятелни научни организации е затруднено, което предполага необходимостта от междуинституционално сътрудничество с цел изучаването на тази група заболявания.
