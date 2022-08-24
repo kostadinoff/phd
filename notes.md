@@ -292,4 +292,18 @@ Diseases for Oncology (ICD-O). However, the morphologicl entities enlisted there
 - On the other side, hereditary cancer syndromes may be incorporated into rare diseases. Thus, ICD-O could be used to register the cancers (eg, sarcomas or colon adenocarcinoma), while ORPHA numbers, recommended by the
 EU to register rare diseases, could be used in parallel to register the hereditary syndromes. 
 
+@Krendyukov2021
+
+- The development of innovative medicinal products (InMPs) for rare cancers faces many challenges including difficulties in recruiting adequate numbers  of patients from a very small and heterogeneous patient population, limited knowledge of disease natural history, and from a pharmaceutical company point of view: high financial investments, extensive development times, and significant risk of  potential failure
+
+- Significant efforts have been made by the European Medicines Agency (EMA) and US FDA to accelerate the development, review, and approval of InMPs for serious and life-threatening conditions in the form of breakthrough therapy designation by the FDA (16), or priority medicine designation by the EMA 
+
+- Clinical trials with an adaptive design are defined by the FDA as those that allow for prospectively planned modifications to one or more aspects of the design based on accumulating data from subjects in the trial
+
+- Common designs include those that allow for adaptively assigning doses (escalation/de-escalation, to assess dose-outcome relationships); early stopping of the trial for toxicity, efficacy, or futility; dropping or adding new treatment
+arms; using a seamless phase transition to permit continuation from one phase to another
+
+- Randomized controlled trials using adaptive designs and Bayesian methodology feature highly in trials from the International Rare Cancers Initiative (IRCI), a partnership that
+aims to stimulate and facilitate the development of international clinical trials for patients with rare cancers
+
 # References
