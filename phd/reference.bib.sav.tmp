@@ -1403,6 +1403,8 @@
   langid         = {english},
   publisher      = {Elsevier {BV}},
   qualityassured = {qualityAssured},
+  ranking        = {rank5},
+  readstatus     = {read},
   shortjournal   = {{ESMO} Open},
   url            = {https://linkinghub.elsevier.com/retrieve/pii/S2059702920300648},
   urldate        = {2022-05-17},
@@ -2744,5 +2746,4 @@ EXPORT DATE: 23 August 2022
 @Article{Gaddipati2012,
   author    = {Himabindu Gaddipati and Ke Liu and Anne Pariser and Richard Pazdur},
   journal   = {Clinical Cancer Research},
-  title     = {Rare Cancer Trial Design: Lessons from {FDA} Approvals},
-  year 
+  title     = {Rare Can
