@@ -10,7 +10,7 @@
           <entry key="mainTableColumnNames" value="groups;files;linked_id;field:entrytype;field:author/editor;field:title;field:year;field:journal/booktitle;special:readstatus;special:ranking"/>
           <entry key="mainTableColumnWidths" value="28.0;28.0;28.0;300.0;203.0;349.0;130.0;109.8828125;28.0;80.0"/>
           <entry key="mainTableColumnSortTypes" value="DESCENDING;ASCENDING;ASCENDING;DESCENDING;DESCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING;ASCENDING"/>
-          <entry key="mainTableColumnSortOrder" value="field:title"/>
+          <entry key="mainTableColumnSortOrder" value="field:year"/>
           <entry key="bindNames" value="Abbreviate;Accept;Autogenerate citation keys;Automatically link files;Capitalize word;Check integrity;Cleanup;Clear read status;Clear search;Close dialog;Close library;Copy;Copy \\cite{citation key};Copy citation key;Copy citation key and link;Copy citation key and title;Copy preview;Copy title;Cut;Delete entry;Delete;Download full text documents;Edit strings;Entry editor, next entry;Entry editor, next panel;Entry editor, next panel 2;Entry editor, previous entry;Entry editor, previous panel;Entry editor, previous panel 2;Execute default action in dialog;Export;Export Selected;File list editor, move entry down;File list editor, move entry up;Focus entry table;Help;Import into current library;Import into new library;Lowercase word;Uppercase word;Merge entries;Move caret left;Move caret right;Move caret to beginning of line;Move caret to  of line;Move caret to next word;Move caret to previous word;Move caret down;Move caret to beginning of text;Move caret to end of text;Move caret up;New article;New book;New entry;New entry from plain text;New inbook;New inproceesings;New mastersthesis;New phdthesis;New proceedings;New technical report;New unpublished;Next library;Next preview layout;Open / close entry editor;Open OpenOffice/LibreOffice connection;Open URL or DOI;Open file;Open folder;Open library;Open terminal here;Paste;Preamble editor, store changes;Previous library;Previous preview layout;Pull changes from shared database;Push to application;Quit JabRef;Redo;Refresh OO;Remove characters until next word;Remove all characters caret to end of line;Characters until previous word;Replace string;Resolve duplicate citation keys;Save all;Save library;Save library as ...;Search;Search for unlinked local files;Select all;Select first entry;Select last entry;Set read status to read;Set read status to skimmed;String dialog, add string;String dialog, remove string;Synchronize files;Toggle groups interface;Unabbreviate;Undo;Web search;Write metadata to PDF files"/>
           <entry key="bindings" value="ctrl+alt+A;ctrl+ENTER;ctrl+G;F7;;ctrl+F8;alt+F8;;ESCAPE;Esc;ctrl+W;ctrl+C;ctrl+K;ctrl+shift+K;ctrl+alt+K;ctrl+shift+alt+K;ctrl+shift+C;ctrl+shift+alt+T;ctrl+X;DELETE;;alt+F7;ctrl+T;alt+DOWN;ctrl+TAB;ctrl+PLUS;alt+UP;ctrl+shift+TAB;ctrl+MINUS;ctrl+ENTER;ctrl+alt+e;ctrl+shift+e;ctrl+DOWN;ctrl+UP;alt+1;F1;ctrl+I;ctrl+alt+I;;;ctrl+M;;;;;;;;;;;ctrl+shift+A;ctrl+shift+B;ctrl+N;ctrl+shift+N;ctrl+shift+I;;ctrl+shift+M;ctrl+shift+T;ctrl+shift+P;;ctrl+shift+U;ctrl+PAGE_DOWN;F9;ctrl+E;alt+0;F3;F4;ctrl+shift+O;ctrl+O;ctrl+shift+L;ctrl+V;alt+S;ctrl+PAGE_UP;shift+F9;ctrl+shift+R;ctrl+L;ctrl+Q;ctrl+Y;ctrl+alt+O;;;;ctrl+R;ctrl+shift+D;ctrl+alt+S;ctrl+S;ctrl+shift+S;ctrl+F;shift+F7;ctrl+A;HOME;END;;;ctrl+N;shift+DELETE;ctrl+shift+F7;alt+3;ctrl+alt+shift+A;ctrl+Z;alt+4;F6"/>
           <entry key="openLastEdited" value="true"/>
@@ -68,11 +68,11 @@
           <entry key="defaultBibtexKeyPattern" value="[auth][year]"/>
           <entry key="xmpPrivacyFilters" value="keywords;timestamp;review;pdf;note;owner"/>
           <entry key="entryEditorHeightFX" value="0.5005574136008919"/>
-          <entry key="sidePaneWidthFX" value="255.0"/>
+          <entry key="sidePaneWidthFX" value="254.0"/>
           <entry key="lastFocused" value="C:\Users\PC\Documents\GitHub\phd\phd\reference.bib"/>
           <entry key="recentDatabases" value="G:\\Моят диск\\KOSTADINOV\\ПРОЕКТИ\\Проданов\\Дсертация\\bibliography.bib"/>
-          <entry key="columnNames" value="entrytype;author/editor;title;year;journal/booktitle"/>
-          <entry key="columnWidths" value="100;100;100;100;100"/>
+          <entry key="columnNames" value="entrytype;author/editor;title;year;journal/booktitle;readstatus;ranking"/>
+          <entry key="columnWidths" value="100;100;100;100;100;100;100"/>
           <entry key="columnSortTypes" value=""/>
           <entry key="columnSortOrder" value=""/>
           <entry key="userId" value="2c8f3d4b-da5a-4305-8b89-581751583a24"/>

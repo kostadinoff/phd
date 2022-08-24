@@ -226,8 +226,70 @@ been extended to the more frequent neoplasms.
 
 - Patients with a rare cancer are confronted with uncertainties regarding work, due to an overall lack of knowledge and experience with these types of cancer.
 
+@Okuma2022
 
-# Въведение
+- Project (Japan) launched in 2017, for driving research and development for rare cancers and for promoting genomic medicine, a successful collaboration between industry and academia
 
-Понятието "редки карциноми" е използвано през 1992 , като в своя студия Bruce A. et al. @Chabner1992  коментират различията в клиничния отговор към химиотерапевтични агенти. Авторите отбелязват, че при определени видове тумори с честота на случаите под 1000 на година, провеждането на изследвания от самостоятелни научни организации е затруднено, което предполага необходимостта от междуинституционално сътрудничество с цел изучаването на тази група заболявания.
+- The first is a registry study, and the second comprises multiple clinical trials. With the collaboration between 6 Japanese academia institutes and 12 pharmaceutical companies, we have enrolled over 2000 patients in the registry, making it one of the largest rare cancer databases worldwide, and are simultaneously conducting 19 independent registration-directed clinical trials. 
+
+![1661363443927](image/notes/1661363443927.png)
+
+@Heus2022
+
+- Niderland study 
+
+- In 2020, the Joint Action on Rare Cancers (JARC) published a consensus article in which RC entities were partitioned into RC ‘families’
+
+-  Yet, while the EURACAN domains correspond to the RARECARENet list, in which RCs are defined upon Tier 2 entities (i.e. relevant for clinical decision making and research), JARC families are defined upon Tier 1 entities 1 (i.e. relevant for health care organisation)
+  
+- Compared to patients with CC, patients with RC (domain categorisation) were more often diagnosed at a younger age (median 64 years versus 68 years; P < 0.001). Most cancers in patients up to 34 years were RCs, and
+CCs became increasingly prominent in patients aged 35 and older.
+
+- Patients with RC were also more often treated in an academic hospital (41.4% versus 11.4%; P < 0.001), and received more often radiotherapy (9.0% versus 4.7%; P < 0.001) than patients with CC.
+
+- Overall, RCs accounted for 18% of all adult solid cancers diagnosed in the Netherlands during 2010 - 2019.
+
+- The 5-year RS of all adult solid RCs (domain categorisation) was 52.0% (95% CI 51.7e52.3), compared with 68.7% (95% CI 68.6e68.9) for all adult solid CCs (P < 0.001)
+
+- The 5-year RS of all adult solid RCs (domain categorisation) increased from 46.2% (95% CI 45.8e46.7) in 1995e1999 to 52.6% (95% CI 52.1e53.0) in 2015 - 2019 (i.e. 6.4%), compared to an increase from 56.9% (95% CI 56.7 -57.2) in 1995 - 1999 to 70.1% (95% CI 69.9e70.3) in 2015 - 2019 (i.e. 13.2%) for CCs
+
+- Smaller or no survival improvements were found for all RC domains in comparison to CC domains, except for skin cancers and non-cutaneous melanoma, in which a larger survival improvement was found for patients with RC versus CC (from 70.3% to 78.5% versus from 88.4% to 94.0%).
+
+- This survival gapmight be explained by differences in biological tumour behaviour and inadequacies of care or treatment for RCs, including lack of expertise, diagnostic delays, lack of adequate treatments and lack of evidence-based clinical guidelines
+
+@Chawla2022
+
+- Launch of multiple, high-cost, combination regimens targeting early-stage disease increasingly impact payer budget and their willingness to pay.
+
+- Key criteria evaluated by HTA agencies included: 1) clinical effectiveness, 2) sufficiency/strength of evidence, 3) endpoint selection, 4) comparator, 5) safety, and 6) cost-effectiveness
+
+@Casali2020
+
+- They are different from rare diseases because they share all the hallmarks of cancer, so that they are relatively homogeneous, while rare diseases are a highly variegated group of mainly chronic
+
+- In addition to this, rare cancers are handled by the same community of physicians, that is, surgical oncologists, radiation oncologists, medical oncologists, haemato-oncologists, paediatric oncologists at cancer centres
+
+- In 2016, the European Union (EU) launched the Joint Action on Rare Cancers (JARC), paralleling a Joint Action on Rare Diseases. This underlined the recognition that rare diseases and rare cancers have commonalities but also belong to different clinical domains.
+
+- The most obvious list of cancers is based on their topography and histological classification (morphology), that is, the International Classification of
+Diseases for Oncology (ICD-O). However, the morphologicl entities enlisted therein need to be grouped into clinically distinct entities, which in turn may be gathered into families of neoplastic diseases.
+
+- Families of rare cancers. Focusing on referral of patients, ‘tier 1’ entities were grouped, by the JARC panel of experts (see online supplementary appendix 1), into gross partitions, which give rise to what were called ‘families’ of rare cancers, identifying major groups of rare cancer diseases (eg, ‘rare cancers of head and neck’, ‘sarcomas’, etc).
+
+- Some ‘tier 1’ entities, namely epithelial tumours of the oesophagus, of the liver, of the ovary and fallopian tube, of the cervix uteri, include only rare ‘tier 2’ entities. These tumours were not included in the families of rare cancers because their ‘tier 1’ is not rare
+
+- There is a big difference between a rare ‘family’ of cancers and a rare cancer ‘entity’ belonging to a common family of tumours. However, while it may well be equally problematic to do any clinical research exclusively focusing on both, the expertise needed to approach appropriately a metaplastic breast cancer will be relatively easy to find in the community.
+
+- Assuming incidence as an indicator, it was felt by clinical experts that cancers with an incidence below 3/100 000/ year were definitely rare. However, if the thresholds of <3/100 000/year were adopted, glial tumours, epithelial cancers of the oral cavity and lip, epithelial cancers of gallbladder and extrahepatic biliary tract, soft tissue sarcomas, tumours of testis and paratestis, myeloproliferative neoplasms and acute myeloid leukaemia would all be excluded. 
+
+- The European Reference Network (ERN) on rare solid adult cancers has a dedicated pathological task force that will work to improve the diagnosis of rare adult cancers in Europe. This will improve quality of care and, as a by-product, also quality of registration.
+
+-  However, the incidence rates may differ from country to country. This could be due to several factors, as the prevalence of risk factors in populations (eg, smoking, alcohol, virus), overdiagnosis (eg, thyroid cancers), quality of pathological diagnoses and cancer registration. 
+
+![1661368726159](image/notes/1661368726159.png)
+![1661368742515](image/notes/1661368742515.png)
+
+- On the other side, hereditary cancer syndromes may be incorporated into rare diseases. Thus, ICD-O could be used to register the cancers (eg, sarcomas or colon adenocarcinoma), while ORPHA numbers, recommended by the
+EU to register rare diseases, could be used in parallel to register the hereditary syndromes. 
+
 # References
