@@ -306,4 +306,7 @@ arms; using a seamless phase transition to permit continuation from one phase to
 - Randomized controlled trials using adaptive designs and Bayesian methodology feature highly in trials from the International Rare Cancers Initiative (IRCI), a partnership that
 aims to stimulate and facilitate the development of international clinical trials for patients with rare cancers
 
+@derzwan
+
+
 # References
