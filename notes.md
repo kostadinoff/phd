@@ -4,27 +4,25 @@ bibliography: [phd\reference.bib]
 
 # @the_lancet_oncology_very_2001
 
-- For example, lymphomatoid granulomatosis (less than 50 cases a year in the USA) is often misdiagnosed as T-cell lymphoma and is consequently mistreated. It is typical for patients to go for over a year without a proper diagnosis. #диагноза
+- For example, lymphomatoid granulomatosis (less than 50 cases a year in the USA) is often misdiagnosed as T-cell lymphoma and is consequently mistreated. It is typical for patients to go for over a year without a proper diagnosis. #D #EPI
 
-- The US Congress Orphan Drug Act 1983 defines ‘rare’ as “under 200 000 cases in the USA, or more than 200 000 cases but no reasonable expectation that the costs of developing a new drug for this condition will be recovered from its sales”
+- The US Congress Orphan Drug Act 1983 defines ‘rare’ as “under 200 000 cases in the USA, or more than 200 000 cases but no reasonable expectation that the costs of developing a new drug for this condition will be recovered from its sales” #DF
 
-- Oncologists obviously have to devote most of their time to managing patients with common cancers and will understandably concentrate on publishing on these diseases. Physicians may only see a very rare
-  
-- cancer once or twice in their career, yet the importance of discussing and disseminating information on these cases should not be underestimated.
+- Oncologists obviously have to devote most of their time to managing patients with common cancers and will understandably concentrate on publishing on these diseases. Physicians may only see a very rare cancer once or twice in their career, yet the importance of discussing and disseminating information on these cases should not be underestimated. #C
 
 # @Tan2003
 
-- For studies to have sufficient statistical power ( ≥ 80%) to detect treatment effects of this magnitude, several hundreds of deaths (typically 200 to 500) need to be observed. This implies trial sizes that are unrealistically large for rare cancers.
+- For studies to have sufficient statistical power ( ≥ 80%) to detect treatment effects of this magnitude, several hundreds of deaths (typically 200 to 500) need to be observed. This implies trial sizes that are unrealistically large for rare cancers. #T #EPI
 
 # @Gatta2006
 
-- These problems can be addressed by use of population-based cancer-registries data to avoid selection bias and by compilation of large international databases on rare cancer
+- These problems can be addressed by use of population-based cancer-registries data to avoid selection bias and by compilation of large international databases on rare cancer #EPI
   
-- We defined rare cancers as those with an annual crude incidence rate of less than 2 per 100 000 for both sexes combined.
+- We defined rare cancers as those with an annual crude incidence rate of less than 2 per 100 000 for both sexes combined. #DF #EPI
   
-- We have shown that survival for rare cancers decreased with increasing age at diagnosis, as for most common cancers.
+- We have shown that survival for rare cancers decreased with increasing age at diagnosis, as for most common cancers. #EPI
   
-- With regard to variations in survival across geographic groups, differences in access to diagnostic facilities and specialised treatments may be important, since these vary markedly across Europe. However, in much of northern and western Europe, multidisciplinary specialist care is well developed. In some countries of eastern Europe, cancer services are commonly provided by oncologists and surgeons who are not specialised in the treatment of particular cancer sites; moreover, few of these eastern European countries participate in clinical trials
+- With regard to variations in survival across geographic groups, differences in access to diagnostic facilities and specialised treatments may be important, since these vary markedly across Europe. However, in much of northern and western Europe, multidisciplinary specialist care is well developed. In some countries of eastern Europe, cancer services are commonly provided by oncologists and surgeons who are not specialised in the treatment of particular cancer sites; moreover, few of these eastern European countries participate in clinical trials #EPI #T
 
 - Geographic variation in survival for these cancers might therefore reflect differences in the use of effective treatment protocols. By contrast, little or no treatment advances have been achieved from 1983 to 1994 for squamous-cell carcinoma of bladder, adrenal-cortex carcinoma, and mesothelioma. For these cancers, geographic variation in outcome might reflect differences in diagnosis (eg, accuracy of histological diagnosis for mesothelioma) or in quality of follow-up by cancer registries (eg, loss of information on death).
 
