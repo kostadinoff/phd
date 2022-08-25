@@ -2843,12 +2843,6 @@ EXPORT DATE: 23 August 2022
   url       = {https://www.rarecancerseurope.org/rare-cancers-in-europe/rare-cancer-agenda-2030},
 }
 
-@Article{janthesis2022,
-  author = {Jan,Maarten},
-  title  = {Surveillance of rare cancer},
-  url    = {https://ris.utwente.nl/ws/portalfiles/portal/6048760/thesis_J_van_der_Zwan.pdf},
-}
-
 @Article{derzwan,
   author = {der Zwan, Jan Maarten},
   title  = {Survailliance of rare cancer},

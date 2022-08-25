@@ -4,7 +4,7 @@ bibliography: [phd\reference.bib]
 
 @the_lancet_oncology_very_2001
 
-- For example, lymphomatoid granulomatosis (less than 50 cases a year in the USA) is often misdiagnosed as T-cell lymphoma and is consequently mistreated. It is typical for patients to go for over a year without a proper diagnosis.
+- For example, lymphomatoid granulomatosis (less than 50 cases a year in the USA) is often misdiagnosed as T-cell lymphoma and is consequently mistreated. It is typical for patients to go for over a year without a proper diagnosis. #диагноза
 
 - The US Congress Orphan Drug Act 1983 defines ‘rare’ as “under 200 000 cases in the USA, or more than 200 000 cases but no reasonable expectation that the costs of developing a new drug for this condition will be recovered from its sales”
 
@@ -308,5 +308,33 @@ aims to stimulate and facilitate the development of international clinical trial
 
 @derzwan
 
+- Patients with rare cancers sometimes benefit from developments directed at specific high volume cancers; for example the breast cancer screening program contributed to early diagnoses for women suffering from the rare Paget’s disease of the breast.
+
+- To counteract this problem and reach the volume needed to study rare cancers, large scale collaboration between clinicians and researchers is mandatory. The establishment of worldwide and European collaboration between cancer registries started in 1966 with the forming of the International Association of Cancer Registries (IACR), and the European Network of Cancer Registries (ENCR) in 1989 was the first step to join forces making it possible to study rare cancers using large datasets
+
+- Until recently no general definition of rare cancer existed, in contrast to the over 290 different existing definitions for rare diseases. @Richter2015
+
+- In addition to the structured three-tier list, an incidence threshold for rarity was determined. This threshold includes as rare all cancers belonging to the first (family of cancers) and second tier (clinically meaningful) cancers whose incidence is less than 6 per 100,000 person-years.6 The RARECARE list of cancers includes 59 tier 1 families of cancers, 201 tier 2 clinical meaningful
+cancers and 579 tier 3 tumour entities
+
+@Sandler2021
+
+- The definition of what qualifies as a rare tumor will likely continue to evolve as tumors become defined more frequently by their molecular aberrations rather than their organ of origin.
+
+- However, a growing number of  rare subtypes of these “common” cancers are being identified (for example, see the article on rare subtypes of kidney cancer by Webster et al. in this issue), and some of these subtypes share molecular alterations with cancers originating in different organs.
+
+- Several advances have begun to accelerate progress in developing therapies for rare tumors. The relatively recent emphasis and evolving effort on precision medicine has resulted in changes in the way many clinical trials are conducted, as well as changes in the types of data and endpoints accepted by regulatory agencies.
+
+- Patient-reported outcome (PRO) data are becoming an increasingly important component in trials on rare tumors. Tumor histology-agnostic clinical trials testing therapies targeted to a specific gene mutation are becoming the norm
+
+- MyPART is the My Pediatric and Adult Rare Tumor network. It is a group of scientists, patients, family members, advocates, and healthcare providers who want to help find treatments for rare cancers.
+
+- The Natural History Study of Rare Solid Tumors studies people with rare tumors over time. The goal of this study is to collect information from rare tumor patients to learn how the tumor grows and develops. This helps researchers understand these rare tumors better so that they can develop new treatments.
+
+@Fiorentino2021
+
+- Surely, as highlighted by the present analysis, the radiotherapy option is not a rare indication in this setting and the role of Radiation Oncologist must not be neglected. 
+
+@Marques2021 
 
 # References

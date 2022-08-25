@@ -5,11 +5,17 @@ book:
   title: "Социално - икономическа и епидемимиологична характертиска на редките тумори."
   author: "Костадин Костадинов"
   date: "12.08.2022 г."
-  chapters:
-    - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+- part: intro.qmd
+- part: review.qmd
+    chapters: 
+      - basics.qmd
+      - packages.qmd
+  - part: aims.qmd
+  - part: materials.qmd
+  - part: results.qmd
+  - part: discussions.qmd
+  - part: conclusions.qmd
+  -part: references.qmd
 bibliography: reference.bib
 csl: bmc-medicine.csl
 language: custom.yml
