@@ -2846,7 +2846,21 @@ EXPORT DATE: 23 August 2022
 @Article{derzwan,
   author = {der Zwan, Jan Maarten},
   title  = {Survailliance of rare cancer},
+  year   = {2021},
   url    = {https://iknl.nl/getmedia/7dd6f5b1-ae16-4143-9105-38a1f25f0965/proefschrift-jan-maarten-van-der-zwan-surveillance-of-rare-cancers.pdf},
+}
+
+@Article{Richter2015,
+  author    = {Trevor Richter and Sandra Nestler-Parr and Robert Babela and Zeba M. Khan and Theresa Tesoro and Elizabeth Molsen and Dyfrig A. Hughes},
+  journal   = {Value in Health},
+  title     = {Rare Disease Terminology and Definitions{\textemdash}A Systematic Global Review: Report of the {ISPOR} Rare Disease Special Interest Group},
+  year      = {2015},
+  month     = {sep},
+  number    = {6},
+  pages     = {906--914},
+  volume    = {18},
+  doi       = {10.1016/j.jval.2015.05.008},
+  publisher = {Elsevier {BV}},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
