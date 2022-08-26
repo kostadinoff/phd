@@ -435,3 +435,4 @@ bibliography: [phd\reference.bib]
 # @Bergerot2018
 
 - Patients diagnosed with rare cancer reported poorer psychosocial outcomes and impaired quality of life when compared to the general population of cancer patients. Certain demographic groups (e.g., women and younger patients) may benefit from targeted psychosocial interventions.
+
