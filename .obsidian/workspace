@@ -6,11 +6,11 @@
       {
         "id": "30b77d8774fd0f67",
         "type": "leaf",
-        "dimension": 49.753390875462394,
+        "dimension": 49.75339087546239,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes.md",
+            "file": "review.md",
             "mode": "source",
             "source": true
           }
@@ -20,12 +20,12 @@
       {
         "id": "e44a4aacfe4144e0",
         "type": "leaf",
-        "dimension": 50.24660912453762,
+        "dimension": 50.24660912453761,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes.md",
-            "mode": "preview",
+            "file": "review.md",
+            "mode": "source",
             "source": true
           }
         },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes.md",
+                "file": "review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes.md"
+                "file": "review.md"
               }
             }
           },
@@ -155,8 +155,9 @@
   },
   "active": "30b77d8774fd0f67",
   "lastOpenFiles": [
+    "review.pdf",
     "review.md",
-    "notes.md",
-    "rules.md"
+    "rules.md",
+    "notes.md"
   ]
 }

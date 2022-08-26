@@ -4,7 +4,7 @@ bibliography: [phd\reference.bib]
 
 # @the_lancet_oncology_very_2001
 
-- For example, lymphomatoid granulomatosis (less than 50 cases a year in the USA) is often misdiagnosed as T-cell lymphoma and is consequently mistreated. It is typical for patients to go for over a year without a proper diagnosis. #D #EPI
+- For example, lymphomatoid granulomatosis (less than 50 cases a year in the USA) is often misdiagnosed as T-cell lymphoma and is consequently mistreated. It is typical for patients to go for over a year without a proper diagnosis. #DF #EPI
 
 - The US Congress Orphan Drug Act 1983 defines ‘rare’ as “under 200 000 cases in the USA, or more than 200 000 cases but no reasonable expectation that the costs of developing a new drug for this condition will be recovered from its sales” #DF
 
@@ -24,9 +24,11 @@ bibliography: [phd\reference.bib]
   
 - With regard to variations in survival across geographic groups, differences in access to diagnostic facilities and specialised treatments may be important, since these vary markedly across Europe. However, in much of northern and western Europe, multidisciplinary specialist care is well developed. In some countries of eastern Europe, cancer services are commonly provided by oncologists and surgeons who are not specialised in the treatment of particular cancer sites; moreover, few of these eastern European countries participate in clinical trials #EPI #T
 
-- Geographic variation in survival for these cancers might therefore reflect differences in the use of effective treatment protocols. By contrast, little or no treatment advances have been achieved from 1983 to 1994 for squamous-cell carcinoma of bladder, adrenal-cortex carcinoma, and mesothelioma. For these cancers, geographic variation in outcome might reflect differences in diagnosis (eg, accuracy of histological diagnosis for mesothelioma) or in quality of follow-up by cancer registries (eg, loss of information on death).
+- Geographic variation in survival for these cancers might therefore reflect differences in the use of effective treatment protocols. By contrast, little or no treatment advances have been achieved from 1983 to 1994 for squamous-cell carcinoma of bladder, adrenal-cortex carcinoma, and mesothelioma. For these cancers, geographic variation in outcome might reflect differences in diagnosis (eg, accuracy of histological diagnosis for mesothelioma) or in quality of follow-up by cancer registries (eg, loss of information on death). #EPI
 
-- Rare cancers pose particular problems for health-care organisation, clinical decision-making, and translational research. Development and availability of new treatments also depends on designation of orphan drugs. Current definitions of rare cancers are unsatisfactory because of their basis on prevalence (see http://www.rarediseases.org), which is frequently unknown. Addressing these issues needs Europeanwide networks to generate epidemiological data, coordinate adequately powered multicentre clinical studies, and disseminate information on best practice and treatment advances. The European Commission has recognised the importance of rare diseases, and is encouraging the creation of a European network of excellence
+- Rare cancers pose particular problems for health-care organisation, clinical decision-making, and translational research. Development and availability of new treatments also depends on designation of orphan drugs. #T
+- Current definitions of rare cancers are unsatisfactory because of their basis on prevalence (see http://www.rarediseases.org), which is frequently unknown. #DF
+- Addressing these issues needs European wide networks to generate epidemiological data, coordinate adequately powered multicentre clinical studies, and disseminate information on best practice and treatment advances. The European Commission has recognised the importance of rare diseases, and is encouraging the creation of a European network of excellence #T #I
 
 # @greenlee_occurrence_2010
 
