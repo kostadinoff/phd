@@ -158,33 +158,33 @@ bibliography: [phd\reference.bib]
 
 -  Italian TREP project (Tumori Rari in Età Pediatrica [Rare Tumors in Pediatric Age]) introduced a new definition of VRTs, using a lower cut-off , i. e., an annual incidence < 2/millions. Moreover, a specific tumor entity was only included if it was not enrolled in clinical trials, defining it as an orphan disease #DF #I 
 
-- On the other hand, a purely qualitative definition of childhood VRTs based on histopathologic classifIcation may pose other problems. In the COG initiative, VRTs were generally classified as other malignant epithelial neoplasms and melanomas according to the International Classifi cation of Childhood Cancer subgroup XI of the SEER database. As a consequence, several VRTs such as pleuropulmonary blastoma, pancreatoblastoma or sex cord stromal tumors might be excluded. Therefore, EXPeRT proposes that the group of VRTs should not be defined based on epidemiology or pathology alone. Instead, a VRT is mainly characterized by its status as an orphan disease, thus pointing to the need of the children to have appropriate care.
+- On the other hand, a purely qualitative definition of childhood VRTs based on histopathologic classifIcation may pose other problems. In the COG initiative, VRTs were generally classified as other malignant epithelial neoplasms and melanomas according to the International Classifi cation of Childhood Cancer subgroup XI of the SEER database. As a consequence, several VRTs such as pleuropulmonary blastoma, pancreatoblastoma or sex cord stromal tumors might be excluded. Therefore, EXPeRT proposes that the group of VRTs should not be defined based on epidemiology or pathology alone. Instead, a VRT is mainly characterized by its status as an orphan disease, thus pointing to the need of the children to have appropriate care. #DF 
 
-- any solid malignancy or borderline tumor characterized by an annual incidence < 2/million and/or not already considered in clinical trials
+- any solid malignancy or borderline tumor characterized by an annual incidence < 2/million and/or not already considered in clinical trials #DF 
 
-- aims: 1) to develop diagnostic and therapeutic recommendations, 2) to collect clinical dat on diagnostic work-up, treatment and follow-up, 3) to identify experts “dedicated” to each VRT to give advice to treating clinicians, 4) to establish a collaborative network with other specialists (i. e., adult oncologists, surgeons, endocrinologists, dermatologists) involved in the management of these tumors, and 5) to establish prospective clinical, pathological and biological studies.
+- aims: 1) to develop diagnostic and therapeutic recommendations, 2) to collect clinical dat on diagnostic work-up, treatment and follow-up, 3) to identify experts “dedicated” to each VRT to give advice to treating clinicians, 4) to establish a collaborative network with other specialists (i. e., adult oncologists, surgeons, endocrinologists, dermatologists) involved in the management of these tumors, and 5) to establish prospective clinical, pathological and biological studies. #I 
 
-- The United Kingdom’s Children’s Cancer & Leukaemia Group founded a Rare Tumour Working Group in 1997 . No dedicated registry was developed, but guidelines were developed and selected (and limited) data were collected throughout the UK National Registry of Childhood Tumours.
+- The United Kingdom’s Children’s Cancer & Leukaemia Group founded a Rare Tumour Working Group in 1997 . No dedicated registry was developed, but guidelines were developed and selected (and limited) data were collected throughout the UK National Registry of Childhood Tumours. #I 
   
-- In 2006, the German Rare Tumor Working Group was founded as a working group of the German Society of Pediatric Oncology and Hematology . In Germany, there is a long-standing tradition that some VRTs have been registered in prospective studies and registries, respectively. For other patients with VRTs, a consultation service has been established. The registration rate is approximately 50 patients per year from institutions in Germany, Austria and Switzerland. 
+- In 2006, the German Rare Tumor Working Group was founded as a working group of the German Society of Pediatric Oncology and Hematology . In Germany, there is a long-standing tradition that some VRTs have been registered in prospective studies and registries, respectively. For other patients with VRTs, a consultation service has been established. The registration rate is approximately 50 patients per year from institutions in Germany, Austria and Switzerland.  #I 
 
-- In 2002, the Polish Pediatric Solid Tumors Study Group founded the Polish Pediatric Rare Tumors Study Group . After a fi rst retrospective analysis, an advisory platform was activated and opened for physicians, and new patients were collected prospectively. Treatment recommendations were continuously re-evaluated and improved.
+- In 2002, the Polish Pediatric Solid Tumors Study Group founded the Polish Pediatric Rare Tumors Study Group . After a fi rst retrospective analysis, an advisory platform was activated and opened for physicians, and new patients were collected prospectively. Treatment recommendations were continuously re-evaluated and improved. #I 
 
-- The main objective of EXPeRT is to promote clinical and biological research in pediatric VRT by intensifying collaboration between the founder national groups and international partners. 
+- The main objective of EXPeRT is to promote clinical and biological research in pediatric VRT by intensifying collaboration between the founder national groups and international partners. #I 
 
-- In 2002, COG created the rare tumor committee, which included the infrequent tumor subcommittee
+- In 2002, COG created the rare tumor committee, which included the infrequent tumor subcommittee #I 
 
 # @Lynge2005 
 
-- Some rare cancers are caused by mutations in a single gene, like retinoblastoma of the eye
+- Some rare cancers are caused by mutations in a single gene, like retinoblastoma of the eye #EPG 
 
-- Other rare cancers are closely associated with a specific exposure, like adenocarcinoma of the vagina in daughters of mothers using diethylstilbestrol during pregnancy
+- Other rare cancers are closely associated with a specific exposure, like adenocarcinoma of the vagina in daughters of mothers using diethylstilbestrol during pregnancy #EPG 
 
-- rare cancers are known to be caused by occupational exposures, such as pleural mesothelioma in asbestos workers, bone sarcoma in radium dial painters , and liver angiosarcoma in vinyl chloride workers
+- rare cancers are known to be caused by occupational exposures, such as pleural mesothelioma in asbestos workers, bone sarcoma in radium dial painters , and liver angiosarcoma in vinyl chloride workers #EPG 
 
-- Historically, the term ‘‘signal cancer’’ has been used for rare cancers clustering in specific occupations, like nasal adenocarcinoma in furniture-makers in Buckinghamshire, in the United Kingdom (UK), in the early 1960s [@macbeth1965malignant].
+- Historically, the term ‘‘signal cancer’’ has been used for rare cancers clustering in specific occupations, like nasal adenocarcinoma in furniture-makers in Buckinghamshire, in the United Kingdom (UK), in the early 1960s [@macbeth1965malignant]. #EPG 
 
-- However, little is known about the aetiology of most rare cancers, and these cancers are difficult to study on a national basis due to the small numbers seen. We therefore conducted a case–control study in nine European countries of cancers of the small intestine, male gall bladder and bile ducts, thymus, bone, male breast, eye melanoma, and mycosis fungoides.
+- However, little is known about the aetiology of most rare cancers, and these cancers are difficult to study on a national basis due to the small numbers seen. We therefore conducted a case–control study in nine European countries of cancers of the small intestine, male gall bladder and bile ducts, thymus, bone, male breast, eye melanoma, and mycosis fungoides. #EPG 
 
 ![[1661352863229.png]]
 
@@ -192,17 +192,17 @@ bibliography: [phd\reference.bib]
 
 - раздели с препоръки 
 
-- Sub-optimal treatment outcomes are common for rare cancers due to a lack of medical expertise in the management of rare cancers, poor referral rates from general practitioners and pathologic misdiagnosis. Outcomes for a diverse range of rare cancers could be improved through the establishment of reference networks or centres of expertise. However, few reference networks or centres of expertise exist across the EU and funding is not available to cover the increased costs associated with the organisation of these networks
+- Sub-optimal treatment outcomes are common for rare cancers due to a lack of medical expertise in the management of rare cancers, poor referral rates from general practitioners and pathologic misdiagnosis. Outcomes for a diverse range of rare cancers could be improved through the establishment of reference networks or centres of expertise. However, few reference networks or centres of expertise exist across the EU and funding is not available to cover the increased costs associated with the organisation of these networks #T #I 
 
-- Overall health and social costs can be far higher for patients with rare cancers because effective treatments are not always reimbursed, referrals for second opinions within the public health system are not commonplace and many patients must travel long distances to access appropriate care;
+- Overall health and social costs can be far higher for patients with rare cancers because effective treatments are not always reimbursed, referrals for second opinions within the public health system are not commonplace and many patients must travel long distances to access appropriate care; #T 
 
-- Since the EU Orphan Drug Regulation4 entered into force, 20 of the 46 medical products that have been designated as orphan drugs have received marketing authorisation for a rare cancer indication5. However, despite the adoption of the EU Orphan Drugs Regulation, there are still a significant number of hurdles that discourage the development of new medicines to treat rare cancers
+- Since the EU Orphan Drug Regulation entered into force, 20 of the 46 medical products that have been designated as orphan drugs have received marketing authorisation for a rare cancer indication. However, despite the adoption of the EU Orphan Drugs Regulation, there are still a significant number of hurdles that discourage the development of new medicines to treat rare cancers #T 
 
-- Call upon regulatory bodies to properly value the use of non-frequentist (Bayesian10) statistical approaches and/or study designs where well-powered randomised clinical trials are not feasible due to the low incidence of the cancer entity.
+- Call upon regulatory bodies to properly value the use of non-frequentist (Bayesian) statistical approaches and/or study designs where well-powered randomised clinical trials are not feasible due to the low incidence of the cancer entity. #EPI 
 
-- Call upon Health Technology Assessment (HTA) agencies to include patients and their representatives as equal stakeholders in the assessment of treatments for rare cancers in order to ensure that HTA procedures are transparent, timely, and include in their cost-effectiveness model the wider social costs and benefits.
+- Call upon Health Technology Assessment (HTA) agencies to include patients and their representatives as equal stakeholders in the assessment of treatments for rare cancers in order to ensure that HTA procedures are transparent, timely, and include in their cost-effectiveness model the wider social costs and benefits. #T #I 
 
-- Call for HTA and pricing and reimbursement bodies to include specialist input from expert oncologists in rare cancers when making decisions about medicines for use in the treatment of rare cancers.
+- Call for HTA and pricing and reimbursement bodies to include specialist input from expert oncologists in rare cancers when making decisions about medicines for use in the treatment of rare cancers. #T 
 
 # @Marty2008
 

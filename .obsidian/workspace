@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DEF",
+                "query": "tag:#EPG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30b77d8774fd0f67",
+  "active": "eb0734a0a7e8cc58",
   "lastOpenFiles": [
     "review.md",
     "notes.md",
