@@ -14,10 +14,10 @@ if (!is.null(WD))
 source_ref = read_csv(here::here("PHD","source_ref.csv"))
 
 new = read_csv(here::here("PHD","ref.csv"))
-new = new |>
+new = new %>%
  select(Identifier, Title)
 
-sync = source_ref |>
+sync = source_ref %>%
 full_join(new)
 write_csv(sync,
           here::here("PHD","source_ref.csv"))
