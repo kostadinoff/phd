@@ -1,5 +1,5 @@
 ---
-bibliography: [phd\reference.bib]
+bibliography: [phd/reference.bib]
 ---
 
 # @the_lancet_oncology_very_2001
