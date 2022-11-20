@@ -1,16 +1,18 @@
 ---
+noteId: "e77ccbc0690211ed857d8f34218742a8"
+tags: []
 title: "Социално-икономическа и епидемиологична характеристика на редките тумори"
-bibliography: [/home/kostadin/Documents/phd/phd/reference.bib]
-csl: bmc-medicine.csl
+bibliography:
+  - "/home/kostadin/Documents/phd/phd/reference.bib"
+csl: "bmc-medicine.csl"
 number-sections: false
-language: custom.yml
+language: "custom.yml"
 format:
   pdf:
-
     mainfont: "Times New Roman"
     sansfont: "Times New Roman"
     monofont: "Times New Roman"
-    fontsize: 12pt
+    fontsize: "12pt"
     toc: false
 
 ---
