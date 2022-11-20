@@ -3029,4 +3029,19 @@ Comprehensive molecular testing in patients with rare cancers may identify treat
   url      = {https://ajph.aphapublications.org/doi/full/10.2105/AJPH.91.9.1380},
 }
 
+@Article{Fernandez-Flores_Fonseca_2022,
+  author   = {Fernandez-Flores, Angel and Fonseca, Eduardo},
+  journal  = {Clinics in Dermatology},
+  title    = {Scrotal cancer, chimney sweepers and Sir Percival Pott},
+  year     = {2022},
+  issn     = {0738081X},
+  month    = {Mar},
+  number   = {2},
+  pages    = {209–220},
+  volume   = {40},
+  doi      = {10.1016/j.clindermatol.2021.12.002},
+  language = {en},
+  url      = {https://linkinghub.elsevier.com/retrieve/pii/S0738081X21002601},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
