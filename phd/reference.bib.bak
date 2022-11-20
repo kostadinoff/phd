@@ -2962,7 +2962,7 @@ Comprehensive molecular testing in patients with rare cancers may identify treat
 }
 
 @Misc{Cancer,
-  author       = {World Health Organisation},
+  author       = {WHO},
   title        = {Cancer - definition},
   abstractnote = {Cancer is a group of diseases that occurs when abnormal cells grow uncontrollably or spread to other parts of the body.},
   language     = {en},
@@ -2979,11 +2979,54 @@ Comprehensive molecular testing in patients with rare cancers may identify treat
   url       = {https://apps.who.int/iris/handle/10665/254500},
 }
 
-@Misc{Understanding_cancer,
+@Article{Understanding_cancer,
   author   = {American Cancer Society},
   title    = {Early history of cancer},
   language = {en},
   url      = {#https://www.cancer.org/treatment/understanding-your-diagnosis/history-of-cancer/what-is-cancer.html},
+}
+
+@Article{Doll_Hill_1950,
+  author  = {Doll, Richard and Hill, A. Bradford},
+  journal = {British Medical Journal},
+  title   = {Smoking and Carcinoma of the Lung},
+  year    = {1950},
+  issn    = {0007-1447},
+  month   = {Sep},
+  number  = {4682},
+  pages   = {739–748},
+  volume  = {2},
+  url     = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2038856/},
+}
+
+@Article{Hajdu_2011,
+  author   = {Hajdu, Steven I.},
+  journal  = {Cancer},
+  title    = {A note from history: Landmarks in history of cancer, part 1},
+  year     = {2011},
+  issn     = {0008543X},
+  month    = {Mar},
+  number   = {5},
+  pages    = {1097–1102},
+  volume   = {117},
+  doi      = {10.1002/cncr.25553},
+  language = {en},
+  url      = {https://onlinelibrary.wiley.com/doi/10.1002/cncr.25553},
+}
+
+@Article{Ramazzini_2001,
+  author   = {Ramazzini, Bernardino},
+  journal  = {American Journal of Public Health},
+  title    = {De Morbis Artificum Diatriba [Diseases of Workers]},
+  year     = {2001},
+  issn     = {0090-0036, 1541-0048},
+  month    = {Sep},
+  number   = {9},
+  pages    = {1380–1382},
+  volume   = {91},
+  doi      = {10.2105/AJPH.91.9.1380},
+  language = {en},
+  url      = {https://ajph.aphapublications.org/doi/full/10.2105/AJPH.91.9.1380},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
